@@ -1,0 +1,254 @@
+{
+  "display-lg": {
+    "$type": "typography",
+    "$description": "Hero headlines, exhibition titles",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Regular",
+      "fontSize": "{display-lg-size}",
+      "lineHeight": "{display-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "display-md": {
+    "$type": "typography",
+    "$description": "Large page headlines",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Regular",
+      "fontSize": "{display-md-size}",
+      "lineHeight": "{display-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "display-sm": {
+    "$type": "typography",
+    "$description": "Section heroes",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Regular",
+      "fontSize": "{display-sm-size}",
+      "lineHeight": "{display-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "headline-lg": {
+    "$type": "typography",
+    "$description": "Page titles",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Medium",
+      "fontSize": "{headline-lg-size}",
+      "lineHeight": "{headline-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "headline-md": {
+    "$type": "typography",
+    "$description": "Section titles",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Medium",
+      "fontSize": "{headline-md-size}",
+      "lineHeight": "{headline-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "headline-sm": {
+    "$type": "typography",
+    "$description": "Card and dialog titles",
+    "$value": {
+      "fontFamily": "{font-family-display}",
+      "fontWeight": "Medium",
+      "fontSize": "{headline-sm-size}",
+      "lineHeight": "{headline-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "title-lg": {
+    "$type": "typography",
+    "$description": "Sub-section titles",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{title-lg-size}",
+      "lineHeight": "{title-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "title-md": {
+    "$type": "typography",
+    "$description": "List and card titles",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{title-md-size}",
+      "lineHeight": "{title-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "title-sm": {
+    "$type": "typography",
+    "$description": "Small titles, table headers",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{title-sm-size}",
+      "lineHeight": "{title-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-lg": {
+    "$type": "typography",
+    "$description": "Long-form reading, artwork stories",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Regular",
+      "fontSize": "{body-lg-size}",
+      "lineHeight": "{body-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-md": {
+    "$type": "typography",
+    "$description": "Default body text",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Regular",
+      "fontSize": "{body-md-size}",
+      "lineHeight": "{body-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-sm": {
+    "$type": "typography",
+    "$description": "Captions, metadata, helper text",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Regular",
+      "fontSize": "{body-sm-size}",
+      "lineHeight": "{body-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-lg-strong": {
+    "$type": "typography",
+    "$description": "Emphasis within body text",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{body-lg-size}",
+      "lineHeight": "{body-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-md-strong": {
+    "$type": "typography",
+    "$description": "Emphasis within body text",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{body-md-size}",
+      "lineHeight": "{body-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "body-sm-strong": {
+    "$type": "typography",
+    "$description": "Emphasis within body text",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "SemiBold",
+      "fontSize": "{body-sm-size}",
+      "lineHeight": "{body-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "label-lg": {
+    "$type": "typography",
+    "$description": "Buttons, tabs",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Medium",
+      "fontSize": "{label-lg-size}",
+      "lineHeight": "{label-lg-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "label-md": {
+    "$type": "typography",
+    "$description": "Chips, form labels",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Medium",
+      "fontSize": "{label-md-size}",
+      "lineHeight": "{label-md-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  },
+  "label-sm": {
+    "$type": "typography",
+    "$description": "Badges, tags, timestamps",
+    "$value": {
+      "fontFamily": "{font-family-body}",
+      "fontWeight": "Medium",
+      "fontSize": "{label-sm-size}",
+      "lineHeight": "{label-sm-line-height}",
+      "letterSpacing": {
+        "value": 0,
+        "unit": "px"
+      }
+    }
+  }
+}

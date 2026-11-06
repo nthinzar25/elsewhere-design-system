@@ -1,0 +1,180 @@
+{
+  "spacing-none": {
+    "$type": "dimension",
+    "$value": "{size-none}"
+  },
+  "spacing-3xs": {
+    "$type": "dimension",
+    "$value": "{size-2xs}"
+  },
+  "spacing-2xs": {
+    "$type": "dimension",
+    "$value": "{size-xs}"
+  },
+  "spacing-xs": {
+    "$type": "dimension",
+    "$value": "{size-sm}"
+  },
+  "spacing-sm": {
+    "$type": "dimension",
+    "$value": "{size-md}"
+  },
+  "spacing-md": {
+    "$type": "dimension",
+    "$value": "{size-lg}"
+  },
+  "spacing-lg": {
+    "$type": "dimension",
+    "$value": "{size-xl}"
+  },
+  "spacing-xl": {
+    "$type": "dimension",
+    "$value": "{size-2xl}"
+  },
+  "spacing-2xl": {
+    "$type": "dimension",
+    "$value": "{size-3xl}"
+  },
+  "spacing-3xl": {
+    "$type": "dimension",
+    "$value": "{size-4xl}"
+  },
+  "spacing-4xl": {
+    "$type": "dimension",
+    "$value": "{size-5xl}"
+  },
+  "spacing-5xl": {
+    "$type": "dimension",
+    "$value": "{size-6xl}"
+  },
+  "spacing-6xl": {
+    "$type": "dimension",
+    "$value": "{size-7xl}"
+  },
+  "spacing-7xl": {
+    "$type": "dimension",
+    "$value": "{size-8xl}"
+  },
+  "layout-margin": {
+    "$type": "dimension",
+    "$value": "{size-7xl}"
+  },
+  "layout-gutter": {
+    "$type": "dimension",
+    "$value": "{size-2xl}"
+  },
+  "layout-section-gap": {
+    "$type": "dimension",
+    "$value": "{size-8xl}"
+  },
+  "layout-stack-gap": {
+    "$type": "dimension",
+    "$value": "{size-4xl}"
+  },
+  "layout-columns": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    }
+  },
+  "layout-max-width": {
+    "$type": "dimension",
+    "$value": {
+      "value": 1280,
+      "unit": "px"
+    }
+  },
+  "radius-none": {
+    "$type": "dimension",
+    "$value": "{size-none}"
+  },
+  "radius-xs": {
+    "$type": "dimension",
+    "$value": "{size-2xs}"
+  },
+  "radius-sm": {
+    "$type": "dimension",
+    "$value": "{size-xs}"
+  },
+  "radius-md": {
+    "$type": "dimension",
+    "$value": "{size-sm}"
+  },
+  "radius-lg": {
+    "$type": "dimension",
+    "$value": "{size-md}"
+  },
+  "radius-xl": {
+    "$type": "dimension",
+    "$value": "{size-lg}"
+  },
+  "radius-2xl": {
+    "$type": "dimension",
+    "$value": "{size-2xl}"
+  },
+  "radius-full": {
+    "$type": "dimension",
+    "$value": "{size-full}"
+  },
+  "border-width-none": {
+    "$type": "dimension",
+    "$value": "{size-none}"
+  },
+  "border-width-thin": {
+    "$type": "dimension",
+    "$value": "{size-3xs}"
+  },
+  "border-width-thick": {
+    "$type": "dimension",
+    "$value": "{size-2xs}"
+  },
+  "border-width-heavy": {
+    "$type": "dimension",
+    "$value": "{size-xs}"
+  },
+  "icon-xs": {
+    "$type": "dimension",
+    "$value": "{size-md}"
+  },
+  "icon-sm": {
+    "$type": "dimension",
+    "$value": "{size-lg}"
+  },
+  "icon-md": {
+    "$type": "dimension",
+    "$value": "{size-xl}"
+  },
+  "icon-lg": {
+    "$type": "dimension",
+    "$value": "{size-2xl}"
+  },
+  "icon-xl": {
+    "$type": "dimension",
+    "$value": "{size-3xl}"
+  },
+  "icon-2xl": {
+    "$type": "dimension",
+    "$value": "{size-4xl}"
+  },
+  "icon-default": {
+    "$type": "dimension",
+    "$value": "{size-xl}"
+  },
+  "control-sm": {
+    "$type": "dimension",
+    "$value": "{size-3xl}"
+  },
+  "control-md": {
+    "$type": "dimension",
+    "$value": "{size-4xl}"
+  },
+  "control-lg": {
+    "$type": "dimension",
+    "$value": "{size-5xl}"
+  },
+  "control-touch-target": {
+    "$type": "dimension",
+    "$value": "{size-4xl}"
+  }
+}
